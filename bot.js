@@ -784,7 +784,7 @@ client.on('message', message => { //By |.iiMostafaYT#1001
             .addField('**Platform**' , `[ ${process.platform} ]` , true) //By |.iiMostafaYT#1001
                   .addField('**My Prefix**' , `[ ${prefix} ]` , true) //By |.iiMostafaYT#1001
                   .addField('**My Language**' , `[ Java Script ]` , true) //By |.iiMostafaYT#1001
-                  .setFooter('By | .iiMosTaFaYT#1001') //By |.iiMostafaYT#1001
+                  .setFooter('By | ᵛᵉⁿᵘˢ,ImMohamed_#6673') //By |.iiMostafaYT#1001
     }) //By |.iiMostafaYT#1001
 } //By |.iiMostafaYT#1001
 }); //By |.iiMostafaYT#1001

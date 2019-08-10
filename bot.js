@@ -30,7 +30,7 @@ client.on('ready', () => {
 
 client.on('ready', () => {
 
-    client.user.setActivity("$help | #Venus Bot",{type: 'Streaming'})
+    client.user.setActivity("$help | #Tyrox Bot",{type: 'Streaming'})
 
 });
 
